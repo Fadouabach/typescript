@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+
+    body{
+        .head{
+            padding-top: 2rem;
+            display: flex;
+            row-gap: 1rem;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 39vh;
+        }
+    }
+}
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+}
+#description{
+  background-color: white;
+  border-radius: 10px;
+  width: 50vh;
+  padding-bottom: 30px;
+}

@@ -1,0 +1,20 @@
+ body {
+      background-image: url(effect.jpg);
+      display: flex;
+      justify-content:end;
+      align-items: start;
+      height: 100vh;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #f1fc9e;
+      color:black;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #ff6b89;
+    }
+
+
+
